@@ -1,1 +1,1 @@
-# Pizers-CLAHE
+# CLHE
